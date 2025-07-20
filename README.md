@@ -17,6 +17,6 @@ A simple and interactive **Tic Tac Toe** game built using **HTML**, **CSS**, and
 
 ## 📸 Preview
 
-
+https://github.com/Nandinipuri511/Tic-Tac-Toe/blob/main/Screenshot%202025-07-20%20203526.png
 
 
